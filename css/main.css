@@ -1,0 +1,13 @@
+.arriba {
+	border:20px #F5F803 solid;
+	width: 200px;
+	padding: 40px 40px;
+
+
+}
+.abajo {
+	border: 20px #F5F803 solid ;
+	width: 200px;
+	padding: 40px ;
+	margin-left: 500px;
+}
